@@ -1,5 +1,5 @@
 # exercise
-first commands
+##first commands
 cd-entrar na pasta
 ls-ver pastas
 mkdir - criar pasta
